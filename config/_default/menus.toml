@@ -6,11 +6,16 @@
 [[main]]
 name = "Home"
 url = "#about"
+weight = 0
+
+[[main]]
+name = "Experience"
+url = "#experience"
 weight = 10
 
 [[main]]
 name = "Publications"
-url = "#featured"
+url = "#pages"
 weight = 20
 
 [[main]]
