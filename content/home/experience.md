@@ -33,7 +33,6 @@ date_format = "Jan 2006"
   location = "Stony Brook, New York"
   date_start = "2018-06-01"
   date_end = "2018-12-01"
-  description = "
   description = """
   *	Developed the backing RESTful API for a prototype of an online health exchange platform with interns
   *	Established a preprocessing library that can be used to build machine learning models
