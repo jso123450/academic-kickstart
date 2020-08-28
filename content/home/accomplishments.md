@@ -73,11 +73,6 @@ date_format = "Jan 2006"
   title = "Operating Systems"
   date_start = "2018-12-01"
 
-<!-- [[item]]
-  organization = "Undergraduate"
-  title = "Computer Networks"
-  date_start = "2018-05-01" -->
-
 [[item]]
   organization = "Undergraduate"
   title = "Theory of Computation: Honors"
