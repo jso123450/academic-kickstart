@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Teaching Assistant (Computer Security Fundamentals)"
+  company = "Stony Brook University"
+  company_url = ""
+  location = "Stony Brook, New York"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
   title = "Software Development Engineer Intern"
   company = "Amazon"
   company_url = ""
@@ -37,5 +46,14 @@ date_format = "Jan 2006"
   *	Developed the backing RESTful API for a prototype of an online health exchange platform with interns
   *	Established a preprocessing library that can be used to build machine learning models
   """
+
+[[experience]]
+  title = "Teaching Assistant (Data Structures)"
+  company = "Stony Brook University"
+  company_url = ""
+  location = "Stony Brook, New York"
+  date_start = "2017-09-01"
+  date_end = "2018-12-01"
+  description = "Taught in a recitation section and review sessions, and proctored exams."
 
 +++

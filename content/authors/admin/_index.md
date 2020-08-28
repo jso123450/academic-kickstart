@@ -30,7 +30,7 @@ education:
   - course: PhD in Computer Science
     institution: Stony Brook University
     year: 2016 - Present
-  - course: BSc in Computer Science and Applied Math and Statistics
+  - course: BSc in Computer Science and Applied Math and Statistics, Summa Cum Laude
     institution: Stony Brook University
     year: 2016
 
