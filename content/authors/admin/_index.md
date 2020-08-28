@@ -30,7 +30,7 @@ education:
   - course: PhD in Computer Science
     institution: Stony Brook University
     year: 2016 - Present
-  - course: BSc in Computer Science and Applied Math and Statistics, Summa Cum Laude
+  - course: BSc in Computer Science and Applied Math and Statistics (Summa Cum Laude)
     institution: Stony Brook University
     year: 2016
 
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a newly admitted PhD student in the Computer Science department at Stony Brook University and am currently working with the PragSec Lab. My current research interests include web security, distributed systems, and algorithms.
+I am a newly admitted PhD student in the Computer Science department at Stony Brook University and am working with the [PragSec Lab](https://www.securitee.org/lab.html) headed by [Nick Nikiforakis](https://www.securitee.org/). My current research interests include web security, distributed systems, and algorithms.
 
 In my free time, I enjoy reading and urban dancing.
