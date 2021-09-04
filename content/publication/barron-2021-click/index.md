@@ -10,6 +10,6 @@ In this paper we propose login rituals, which define actions that a user must ta
 
 Next to testing our system and evaluating its performance when applied to five popular open-source web applications, we demonstrate the promising nature of these mechanisms through a user study. Specifically, we evaluate the detection rate of tripwires against simulated attackers, 88% of whom clicked on at least one tripwire. We also observe web users' creation of personalized login rituals and evaluate the practicality and memorability of these rituals over time. Out of 39 user-created rituals, all of them are unique and 79% of users were able to reproduce their rituals even a week after creation."
 featured: true
-publication: "ACM Asia Conference on Computer and Communications Security"
+publication: "In *ACM Asia Conference on Computer and Communications Security (AsiaCCS)*, 2021"
 url_pdf: "barron-2021-click.pdf"
 ---
