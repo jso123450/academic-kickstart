@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "PragSec Lab, Stony Brook University"
   company_url = ""
   location = "Stony Brook, New York"
-  date_start = "2019-01-01"
+  date_start = "2020-08-01"
   date_end = ""
   description = """ """
 

@@ -68,6 +68,4 @@ user_groups:
   - Visitors
 ---
 
-I am a newly admitted PhD student in the Computer Science department at Stony Brook University and am working with the [PragSec Lab](https://www.securitee.org/lab.html) headed by [Nick Nikiforakis](https://www.securitee.org/). My current research interests include web security, distributed systems, and algorithms.
-
-In my free time, I enjoy reading and urban dancing.
+I am a second-year Computer Science PhD student at Stony Brook University, advised by Professor [Nick Nikiforakis](https://securitee.org/lab.html).
