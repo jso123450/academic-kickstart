@@ -3,7 +3,7 @@
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Contact"
 subtitle = ""
@@ -21,4 +21,3 @@ email_form = 0
 [netlify]
   captcha = true  # Enable CAPTCHA challenge to reduce spam?
 +++
-

@@ -16,15 +16,15 @@ date_format = "Jan 2006"
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Teaching Assistant (Computer Security Fundamentals)"
-  company = "Stony Brook University"
+  title = "Research Project Assistant"
+  company = "PragSec Lab, Stony Brook University"
   company_url = ""
   location = "Stony Brook, New York"
-  date_start = "2019-09-01"
+  date_start = "2019-01-00"
   date_end = ""
-  description = ""
+  description = """ """
 
 [[experience]]
   title = "Software Development Engineer Intern"
@@ -46,14 +46,5 @@ date_format = "Jan 2006"
   *	Developed the backing RESTful API for a prototype of an online health exchange platform with interns
   *	Established a preprocessing library that can be used to build machine learning models
   """
-
-[[experience]]
-  title = "Teaching Assistant (Data Structures)"
-  company = "Stony Brook University"
-  company_url = ""
-  location = "Stony Brook, New York"
-  date_start = "2017-09-01"
-  date_end = "2018-12-01"
-  description = "Taught in a recitation section and review sessions, and proctored exams."
 
 +++
