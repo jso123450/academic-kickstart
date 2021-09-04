@@ -1,7 +1,7 @@
 ---
 title: "Domains Do Change Their Spots: Quantifying Potential Abuse of Residual Trust"
-date: 2022-05-00
-publishDate: 2022-05-00
+date: 2022-05-01
+publishDate: 2022-05-01
 authors: ["Johnny So", "Najmeh Miramirkhani", "Michael Ferdman", "Nick Nikiforakis"]
 publication_types: ["1"]
 abstract: "When domains expire and are released to the public, adversaries can re-register them with the hope of exploiting residual trust from clients that are unaware of the change in ownership. Because domain name resolution is integral to the web, possible clients run the gamut from humans browsing the web to automated and periodic processes such as system updates. For an adversary, this trivially yields access to an attack vector that can affect a multitude of diverse systems and devices. We reason that some domains which experience residual trust and are valuable from a security perspective are not valuable from a dropcatching perspective and, as such, can be re-registered by an adversary without participating in fiercely competitive auctions for expired domains. 

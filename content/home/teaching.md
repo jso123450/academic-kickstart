@@ -21,14 +21,14 @@ date_format = "Jan 2006"
 [[item]]
   title = "CSE 331: Computer Security Fundamentals"
   organization = "Teaching Assistant"
-  date_start = "2020-08-00"
-  date_end = "2021-05-00"
+  date_start = "2020-08-01"
+  date_end = "2021-05-01"
 
 
 [[item]]
   title = "CSE 214: Data Structures"
   organization = "Teaching Assistant"
-  date_start = "2017-08-00"
-  date_end = "2018-08-00"
+  date_start = "2017-08-01"
+  date_end = "2018-08-01"
 
 +++
