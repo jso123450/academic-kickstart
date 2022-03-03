@@ -12,5 +12,5 @@ design:
   columns: '2'
 ---
 
-## Artifact Evaluation Committee Member
+# Artifact Evaluation Committee Member
 - USENIX Security Symposium: [2022](https://www.usenix.org/conference/usenixsecurity22/call-for-artifacts)
