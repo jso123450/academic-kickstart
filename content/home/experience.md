@@ -20,15 +20,24 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Project Assistant"
   company = "PragSec Lab, Stony Brook University"
-  company_url = ""
+  company_url = "https://securitee.org"
   location = "Stony Brook, New York"
   date_start = "2020-08-01"
   date_end = ""
   description = """ """
 
 [[experience]]
+  title = "PhD Research Intern"
+  company = "NortonLifeLock Research Group"
+  company_url = "https://www.nortonlifelock.com/us/en/research-labs/"
+  location = "(Remote) New York, New York"
+  date_start = "2022-05-31"
+  date_end = "2022-08-19"
+  description = "Explored the integrity of mobile applications through dynamic analysis (ongoing)"
+
+[[experience]]
   title = "Software Development Engineer Intern"
-  company = "Amazon"
+  company = "Amazon Alexa"
   company_url = ""
   location = "Seattle, Washington"
   date_start = "2019-06-01"
