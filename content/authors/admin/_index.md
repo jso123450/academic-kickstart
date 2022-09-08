@@ -33,10 +33,10 @@ education:
       year: 2020 - Present
     - course: BSc in Computer Science
       institution: Stony Brook University
-      year: 2016 - 2020
+      year: 2020
     - course: BSc in Applied Math and Statistics
       institution: Stony Brook University
-      year: 2016 - 2020
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

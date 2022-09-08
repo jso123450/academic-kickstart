@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "(Remote) Stony Brook, New York"
   date_start = "2022-05-31"
   date_end = "2022-08-19"
-  description = "Designed a scalable infrastructure to dynamically analyze the integrity of Android applications (ongoing"
+  description = "Analyzing the integrity of Android applications through dynamic analysis (ongoing)"
 
 [[experience]]
   title = "Software Development Engineer Intern"
@@ -59,9 +59,7 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-12-01"
   description = """
-  Accomplishments:
-  *	Built the prototype of a new state health exchange platform
-  *	Established a preprocessing library used to build machine learning models
+  Built the prototype of a new state health exchange platform and established a preprocessing library used to build machine learning models
   """
 
 +++
