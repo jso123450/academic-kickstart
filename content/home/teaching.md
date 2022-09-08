@@ -21,6 +21,13 @@ date_format = "Jan 2006"
 [[item]]
   title = "WSE 380 Rotation: Honeypots and Intrusion Detection"
   organization = "Instructor"
+  date_start = "2022-10-04"
+  date_end = "2022-11-01"
+
+
+[[item]]
+  title = "WSE 380 Rotation: Honeypots and Intrusion Detection"
+  organization = "Instructor"
   date_start = "2022-03-07"
   date_end = "2022-04-01"
 
