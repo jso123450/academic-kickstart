@@ -9,8 +9,8 @@ url = "#about"
 weight = 10
 
 [[main]]
-name = "Experience"
-url = "#experience"
+name = "Work"
+url = "#work"
 weight = 20
 
 [[main]]
