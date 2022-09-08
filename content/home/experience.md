@@ -28,9 +28,9 @@ date_format = "Jan 2006"
   Projects:
   * Designing a link management system that will enable administrators to manage all external resource dependencies of their websites and be notified of changes (ongoing)
   * Demonstrated that strict integrity verification of scripts cannot adequately protect the web through a large-scale, data-driven analysis (under submission)
-  * Profiled the behavior of bots that monitor Certificate Transparency logs, analyzing how bots of various intentions and origins react to new certificates within seconds [(Uninvited Guests)](https://johnny.so/publication/kondracki-2022-uninvited)
-  * Illustrated the capability of adversaries to potentially affect millions of IP addresses in tens of thousands of autonomous systems by re-registering a few hundred domains [(Domains Change)](https://johnny.so/publication/so-2022-domains/)
-  * Proposed and evaluated deceptive web authentication mechanisms that remove the integrity of a web application from the attacker's arsenal, and instead place the lack of it in the defender's arsenal [(Click This, Not That)](https://johnny.so/publication/barron-2021-click/)
+  * Profiled the behavior of bots that monitor Certificate Transparency logs, analyzing how bots of various intentions and origins react to new certificates within seconds [(Uninvited Guests)](publication/kondracki-2022-uninvited)
+  * Illustrated the capability of adversaries to potentially affect millions of IP addresses in tens of thousands of autonomous systems by re-registering a few hundred domains [(Domains Change)](/publication/so-2022-domains/)
+  * Proposed and evaluated deceptive web authentication mechanisms that remove the integrity of a web application from the attacker's arsenal, and instead place the lack of it in the defender's arsenal [(Click This, Not That)](/publication/barron-2021-click/)
   """
 
 [[experience]]
