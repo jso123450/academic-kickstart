@@ -18,7 +18,7 @@ organizations:
     url: "https://cs.stonybrook.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a second-year Computer Science PhD student at Stony Brook University, advised by Professor [Nick Nikiforakis](https://securitee.org/lab.html).
+bio:  I am currently a third-year Ph.D. candidate advised by [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org) in Stony Brook University. I investigate (the lack of) web integrity in various contexts (e.g., domain names and JavaScript) through large-scale experiments, and subsequently design and evaluate defenses that improve the integrity of the web.
 
 interests:
   - Web Security
@@ -33,10 +33,10 @@ education:
       year: 2020 - Present
     - course: BSc in Computer Science
       institution: Stony Brook University
-      year: 2020
+      year: 2016 - 2020
     - course: BSc in Applied Math and Statistics
       institution: Stony Brook University
-      year: 2020
+      year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,7 +51,7 @@ social:
   #   link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=ef-kNDUAAAAJ
+    link: https://scholar.google.com/citations?user=iZE9hmYAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/jso123450
@@ -71,4 +71,4 @@ user_groups:
   - Visitors
 ---
 
-I am a second-year Computer Science PhD student at Stony Brook University, advised by Professor [Nick Nikiforakis](https://securitee.org/lab.html).
+I am currently a third-year Ph.D. candidate advised by [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org) in Stony Brook University. I investigate (the lack of) web integrity in various contexts (e.g., domain names and JavaScript) through large-scale experiments, and subsequently design and evaluate defenses that improve the integrity of the web.

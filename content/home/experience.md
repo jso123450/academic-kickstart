@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Experience"
+title = "Work"
 subtitle = ""
 
 # Date format for experience
@@ -18,22 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 
 [[experience]]
-  title = "Research Project Assistant"
+  title = "Research Assistant"
   company = "PragSec Lab, Stony Brook University"
   company_url = "https://securitee.org"
   location = "Stony Brook, New York"
   date_start = "2020-08-01"
   date_end = ""
-  description = """ """
+  description = """
+  Projects:
+  * Designing a link management system that will enable administrators to manage all external resource dependencies of their websites and be notified of changes (ongoing)
+  * Demonstrated that strict integrity verification of scripts cannot adequately protect the web through a large-scale, data-driven analysis (under submission)
+  * Profiled the behavior of bots that monitor Certificate Transparency logs, analyzing how bots of various intentions and origins react to new certificates within seconds [(Uninvited Guests)](https://johnny.so/publication/kondracki-2022-uninvited)
+  * Illustrated the capability of adversaries to potentially affect millions of IP addresses in tens of thousands of autonomous systems by re-registering a few hundred domains [(Domains Change)](https://johnny.so/publication/so-2022-domains/)
+  * Proposed and evaluated deceptive web authentication mechanisms that remove the integrity of a web application from the attacker's arsenal, and instead place the lack of it in the defender's arsenal [(Click This, Not That)](https://johnny.so/publication/barron-2021-click/)
+  """
 
 [[experience]]
   title = "PhD Research Intern"
   company = "NortonLifeLock Research Group"
   company_url = "https://www.nortonlifelock.com/us/en/research-labs/"
-  location = "(Remote) New York, New York"
+  location = "(Remote) Stony Brook, New York"
   date_start = "2022-05-31"
   date_end = "2022-08-19"
-  description = "Explored the integrity of mobile applications through dynamic analysis (ongoing)"
+  description = "Designed a scalable infrastructure to dynamically analyze the integrity of Android applications (ongoing"
 
 [[experience]]
   title = "Software Development Engineer Intern"
@@ -52,8 +59,9 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-12-01"
   description = """
-  *	Developed the backing RESTful API for a prototype of an online health exchange platform with interns
-  *	Established a preprocessing library that can be used to build machine learning models
+  Accomplishments:
+  *	Built the prototype of a new state health exchange platform
+  *	Established a preprocessing library used to build machine learning models
   """
 
 +++

@@ -88,7 +88,7 @@ show_related = { docs = true, page = false, post = true, project = true, publica
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "josso[at]cs.stonybrook.edu"
+email = "josso [at] cs [dot] stonybrook [dot] edu"
 # phone = "888 888 88 88"
 
 # Address
@@ -153,7 +153,7 @@ main_menu = { align = "l", show_logo = true, highlight_active_link = true, show_
 reading_time = true
 
 # Display next/previous section pager? (true/false)
-section_pager = false 
+section_pager = false
 docs_section_pager = true # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
@@ -188,11 +188,49 @@ shape = "circle"
 
 # Available address formats.
 [address_formats]
-en-us = { order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', ''] }
-en-gb = { order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', ''] }
+en-us = { order = [
+    'street',
+    'city',
+    'region',
+    'postcode',
+], delimiters = [
+    ', ',
+    ', ',
+    ' ',
+    '',
+] }
+en-gb = { order = [
+    'street',
+    'city',
+    'region',
+    'postcode',
+], delimiters = [
+    ', ',
+    ', ',
+    ', ',
+    '',
+] }
 de = { order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', ''] }
-fr-fr = { order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', ''] }
-zh = { order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', ''] }
+fr-fr = { order = [
+    'street',
+    'postcode',
+    'city',
+], delimiters = [
+    '<br>',
+    ' ',
+    '',
+] }
+zh = { order = [
+    'postcode',
+    'region',
+    'city',
+    'street',
+], delimiters = [
+    ' ',
+    ' ',
+    ' ',
+    '',
+] }
 
 # Configuration of publication pages.
 [publications]
@@ -229,7 +267,7 @@ commentable = { page = true, post = true, docs = true, project = true, publicati
 
 # Configuration of Disqus.
 [comments.disqus]
-shortname = "" # Paste the shortname from your Disqus dashboard.
+shortname = ""    # Paste the shortname from your Disqus dashboard.
 show_count = true # Show comment count in page header? (true/false)
 
 # Configuration of Commento.
