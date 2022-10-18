@@ -10,4 +10,9 @@ In this paper, we present an investigation into this attack vector using a top-d
 featured: true
 publication: "In *Proceedings of the 2022 IEEE Symposium on Security and Privacy (S&P)*"
 url_pdf: "so-2022-domains.pdf"
+links:
+- name: Teaser
+  url: https://www.youtube.com/watch?v=5NwnnfEbxlE
+- name: Talk
+  url: https://www.youtube.com/watch?v=8mgHW3CGsm8
 ---
