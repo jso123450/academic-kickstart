@@ -2,7 +2,7 @@
 title: "Uninvited Guests: Analyzing the Identity and Behavior of Certificate Transparency Bots"
 date: 2022-08-10
 publishDate: 2022-08-10
-authors: ["Brian Kondracki", "Johnny So", "Nick Nikiforakis"]
+authors: ["Brian Kondracki", "admin", "Nick Nikiforakis"]
 publication_types: ["1"]
 abstract: "Since its creation, Certificate Transparency (CT) has served
 as a vital component of the secure web. However, with the

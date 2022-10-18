@@ -2,9 +2,9 @@
 # Display name
 title: Johnny So
 
-# Username (this should match the folder name)
-authors:
-  - admin
+# Full name (for SEO)
+first_name: Johnny
+last_name: So
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,9 +39,9 @@ education:
       year: 2020
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -56,19 +56,16 @@ social:
     icon_pack: fab
     link: https://github.com/jso123450
   # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/cv.pdf
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
-  - Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 I am currently a third-year Ph.D. candidate advised by [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org) in Stony Brook University. I investigate (the lack of) web integrity in various contexts (e.g., domain names and JavaScript) through large-scale experiments, and subsequently design and evaluate defenses that improve the integrity of the web.
