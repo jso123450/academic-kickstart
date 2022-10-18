@@ -21,7 +21,7 @@ copyright = "&copy; {year} Johnny So"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+#theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -112,3 +112,14 @@ weight = 70.0
 [[related.indices]]
 name = "authors"
 weight = 20.0
+
+# using modules: https://wowchemy.com/docs/install-locally/\#convert-an-old-academic-kickstarter-site
+[module]
+  [[module.imports]]
+    path = "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms"
+  [[module.imports]]
+    path = "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify"
+  [[module.imports]]
+    path = "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal"
+  [[module.imports]]
+    path = "github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5"
