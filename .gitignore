@@ -4,3 +4,12 @@
 # Hugo
 resources/
 public/
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
+
+
+# old
+archive
+content_arch

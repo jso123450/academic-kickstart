@@ -2,7 +2,7 @@
 title: "Click This, Not That: Extending Web Authentication with Deception"
 date: 2021-06-01
 publishDate: 2021-06-01
-authors: ["Timothy Barron", "Johnny So", "Nick Nikiforakis"]
+authors: ["Timothy Barron", "admin", "Nick Nikiforakis"]
 publication_types: ["1"]
 abstract: "With phishing attacks, password breaches, and brute-force login attacks presenting constant threats, it is clear that passwords alone are inadequate for protecting the web applications entrusted with our personal data. Instead, web applications should practice defense in depth and give users multiple ways to secure their accounts.
 
