@@ -32,6 +32,6 @@ light onto the CT bot ecosystem, revealing that it is not only
 distinct to that of traditional IP-based bots, but is composed of
 numerous entities with varying targets and behaviors."
 featured: true
-publication: "In *Proceedings of the 31st USENIX Security Symposium 2022*"
+publication: "In *Proceedings of the USENIX Security Symposium (USENIX Security), 2022*"
 url_pdf: "kondracki-2022-uninvited.pdf"
 ---
