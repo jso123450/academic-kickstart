@@ -10,9 +10,9 @@ In this paper, we present key insights to inform the design of robust integrity 
 featured: true
 publication: "In *Proceedings of the ACM Web Conference (WWW), 2023*"
 url_pdf: "so-2023-more.pdf"
-# links:
-# - name: Teaser
-#   url: https://www.youtube.com/watch?v=5NwnnfEbxlE
+links:
+- name: Teaser
+  url: https://www.youtube.com/watch?v=eY335kFa8o4&list=PLSXA1jR2OSPCQAdwDqummDi9dNxiHJWLx&index=2
 # - name: Talk
 #   url: https://www.youtube.com/watch?v=8mgHW3CGsm8
 ---
