@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineering Intern"
-  company = "Bot Management, Cloudflare"
+  company = "Bot Management @ Cloudflare"
   company_url = "https://www.cloudflare.com/products/bot-management/"
   location = "Remote"
   date_start = "2023-06-05"
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "PhD Research Intern"
-  company = "NortonLifeLock Research Group"
+  company = "Research @ NortonLifeLock"
   company_url = "https://www.nortonlifelock.com/us/en/research-labs/"
   location = "Remote"
   date_start = "2022-05-31"
@@ -53,8 +53,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Development Engineer Intern"
-  company = "Amazon Alexa"
-  company_url = ""
+  company = "Alexa @ Amazon"
+  company_url = "https://alexa.amazon.com/"
   location = "Seattle, Washington"
   date_start = "2019-06-01"
   date_end = "2019-08-01"
@@ -63,7 +63,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Software Engineer Intern"
   company = "Softheon"
-  company_url = ""
+  company_url = "https://www.softheon.com/"
   location = "Stony Brook, New York"
   date_start = "2018-06-01"
   date_end = "2018-12-01"
