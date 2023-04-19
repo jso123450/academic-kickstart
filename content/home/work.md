@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "PragSec Lab, Stony Brook University"
+  company = "PragSec Lab @ Stony Brook University"
   company_url = "https://securitee.org"
   location = "Stony Brook, New York"
   date_start = "2020-08-01"
