@@ -34,10 +34,19 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Software Engineering Intern"
+  company = "Bot Management, Cloudflare"
+  company_url = "https://www.cloudflare.com/products/bot-management/"
+  location = "Remote"
+  date_start = "2023-06-05"
+  date_end = "2023-08-25"
+  description = ""
+
+[[experience]]
   title = "PhD Research Intern"
   company = "NortonLifeLock Research Group"
   company_url = "https://www.nortonlifelock.com/us/en/research-labs/"
-  location = "(Remote) Stony Brook, New York"
+  location = "Remote"
   date_start = "2022-05-31"
   date_end = "2022-08-19"
   description = "Analyzing the integrity of Android applications through dynamic analysis (ongoing)"
