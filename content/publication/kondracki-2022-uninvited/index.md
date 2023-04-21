@@ -34,4 +34,7 @@ numerous entities with varying targets and behaviors."
 featured: true
 publication: "In *Proceedings of the USENIX Security Symposium (USENIX Security), 2022*"
 url_pdf: "kondracki-2022-uninvited.pdf"
+links:
+- name: Talk
+  url: https://www.youtube.com/watch?v=WqQsTEQa6fM&t=541s
 ---
