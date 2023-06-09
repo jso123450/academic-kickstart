@@ -35,12 +35,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineering Intern"
-  company = "Bot Management @ Cloudflare"
+  company = "Bot Management / API Shield @ Cloudflare"
   company_url = "https://www.cloudflare.com/products/bot-management/"
   location = "Remote"
   date_start = "2023-06-05"
   date_end = "2023-08-25"
-  description = ""
+  description = "Analyzing API traffic to reduce attack surface, detect malicious bot activity, and identify anomalous server-side behavior"
 
 [[experience]]
   title = "PhD Research Intern"
