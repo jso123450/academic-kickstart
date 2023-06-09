@@ -19,3 +19,9 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+
+[[headers]]
+  for = "/static/js/*.js"
+  [headers.values]
+    Content-Type = "text/javascript"
