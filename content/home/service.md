@@ -13,4 +13,4 @@ design:
 ---
 
 ## Artifact Evaluation Committee Member
-- USENIX Security Symposium: [2022](https://www.usenix.org/conference/usenixsecurity22/call-for-artifacts) [2023](https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts)
+- USENIX Security Symposium: [2022](https://www.usenix.org/conference/usenixsecurity22/call-for-artifacts) [2023](https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts) [2024](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts)
