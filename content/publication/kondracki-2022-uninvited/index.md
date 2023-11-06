@@ -12,6 +12,7 @@ the existence of web endpoints, including those that could
 have otherwise remained hidden. As a result, web bots can use
 CT to probe websites in real time, as they are created. Little is
 known about these bots, their behaviors, and their intentions.
+\n\n
 In this paper we present CTPOT, a distributed honeypot
 system which creates new TLS certificates for the purpose
 of advertising previously non-existent domains, and records
