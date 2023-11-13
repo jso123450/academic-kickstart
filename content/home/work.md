@@ -25,12 +25,12 @@ date_format = "Jan 2006"
   date_start = "2020-08-01"
   date_end = ""
   description = """
-  Projects:
-  * Designing an application-agnostic link management system that prevents access to external dependencies of websites if such links violate customizable integrity policies
+  Conducting web security research projects that result in flagship conference publications:
+  * Designing an application-agnostic link management system that prevents access to external dependencies of websites if such links violate integrity policies
   * Demonstrated that strict integrity verification of scripts cannot protect the web and provided insight for future methods through a large-scale, data-driven analysis [(Things Change)](publication/so-2023-more/)
   * Profiled the behavior of bots that monitor Certificate Transparency logs, analyzing how bots of various intentions and origins react to new certificates within seconds [(Uninvited Guests)](publication/kondracki-2022-uninvited)
   * Illustrated the capability of adversaries to potentially affect millions of IP addresses in tens of thousands of autonomous systems by re-registering a few hundred domains [(Domains Change)](/publication/so-2022-domains/)
-  * Proposed and evaluated deceptive web authentication mechanisms that remove the integrity of a web application from the attacker's arsenal, and instead place the lack of it in the defender's arsenal [(Click This, Not That)](/publication/barron-2021-click/)
+  * Proposed transparent web authentication mechanisms that leverage deception [(Click This, Not That)](/publication/barron-2021-click/)
   """
 
 [[experience]]
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Remote"
   date_start = "2023-06-05"
   date_end = "2023-08-25"
-  description = "Analyzing API traffic to reduce attack surface, detect malicious bot activity, and identify anomalous server-side behavior"
+  description = "Designed a policy-based system to detect broken object-level authorization and anomalies in API traffic"
 
 [[experience]]
   title = "PhD Research Intern"
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   location = "Remote"
   date_start = "2022-05-31"
   date_end = "2022-08-19"
-  description = "Analyzing the integrity of Android applications through dynamic analysis (ongoing)"
+  description = "Analyzing the integrity of Android applications through dynamic analysis (under submission)"
 
 [[experience]]
   title = "Software Development Engineer Intern"
@@ -67,8 +67,6 @@ date_format = "Jan 2006"
   location = "Stony Brook, New York"
   date_start = "2018-06-01"
   date_end = "2018-12-01"
-  description = """
-  Built the prototype of a new state health exchange platform and established a preprocessing library used to build machine learning models
-  """
+  description = "Built the prototype of a new state health exchange platform and established a preprocessing library used to build machine learning models"
 
 +++
