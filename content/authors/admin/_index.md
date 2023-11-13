@@ -30,13 +30,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Stony Brook University
-      year: Aug 2020 - Dec 2024 (expected) 
+      year: 2020 - Dec 2024 (expected) 
     - course: BSc in Computer Science
       institution: Stony Brook University
-      year: Aug 2016 - May 2020
+      year: 2016 - 2020
     - course: BSc in Applied Math and Statistics
       institution: Stony Brook University
-      year: Aug 2016 - May 2020
+      year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

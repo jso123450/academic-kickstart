@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Remote"
   date_start = "2023-06-05"
   date_end = "2023-08-25"
-  description = "Designed a policy-based system to detect broken object-level authorization and anomalies in API traffic"
+  description = "Designed a policy-based system to detect broken object-level authorization in API traffic"
 
 [[experience]]
   title = "PhD Research Intern"
@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   location = "Seattle, Washington"
   date_start = "2019-06-01"
   date_end = "2019-08-01"
-  description = "Created an intent recommendation service for third-party Alexa skills using short utterance text data"
+  description = "Created an intent recommendation service for Alexa skills using short utterance text data"
 
 [[experience]]
   title = "Software Engineer Intern"
