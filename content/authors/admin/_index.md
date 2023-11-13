@@ -61,6 +61,84 @@ social:
     icon_pack: ai
     link: uploads/cv.pdf
 
+skills:
+  - name: Technical
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
+      - name: JavaScript
+        description: ''
+        percent: 80
+        icon: js
+        icon_pack: fab
+      - name: Golang
+        description: ''
+        percent: 80
+        icon: golang
+        icon_pack: fab
+      - name: C
+        description: ''
+        percent: 50
+        icon: c
+        icon_pack: fa
+      - name: Data Science
+        description: ''
+        percent: 80
+        icon: chart-line
+        icon_pack: fas
+      - name: System Design
+        description: ''
+        percent: 80
+        icon: ruler-combined
+        icon_pack: fas
+      - name: Writing
+        description: ''
+        percent: 80
+        icon: pen-to-square
+        icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Gaming
+        description: ''
+        percent: 80
+        icon: dice
+        icon_pack: fas
+      - name: Dancing
+        description: ''
+        percent: 80
+        icon: people-robbery
+        icon_pack: fas
+      - name: Exploring
+        description: ''
+        percent: 80
+        icon: music
+        icon_pack: fas
+      - name: Cooking
+        description: ''
+        percent: 50
+        icon: bowl-food
+        icon_pack: fas
+      - name: Reading
+        description: ''
+        percent: 50
+        icon: book
+        icon_pack: fas
+      - name: Traveling
+        description: ''
+        percent: 25
+        icon: person-hiking
+        icon_pack: fas
+      - name: Skiing
+        description: ''
+        percent: 25
+        icon: person-skiing
+        icon_pack: fas
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
