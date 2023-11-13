@@ -20,8 +20,7 @@
   [plugins.inputs]
     debug = true
 
-
-[[headers]]
-  for = "/static/js/*.js"
-  [headers.values]
-    Content-Type = "text/javascript"
+# [[headers]]
+#   for = "/static/js/*.js"
+#   [headers.values]
+#     Content-Type = "text/javascript"
