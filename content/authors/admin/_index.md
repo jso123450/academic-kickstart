@@ -64,11 +64,6 @@ social:
 skills:
   - name: Technical
     items:
-      - name: Golang
-        description: ''
-        percent: 80
-        icon: golang
-        icon_pack: fab
       - name: Python
         description: ''
         percent: 80
@@ -79,9 +74,14 @@ skills:
         percent: 80
         icon: js
         icon_pack: fab
-      - name: C
+      - name: Golang
         description: ''
         percent: 80
+        icon: golang
+        icon_pack: fab
+      - name: C
+        description: ''
+        percent: 50
         icon: c
         icon_pack: fa
       - name: Data Science
@@ -111,17 +111,32 @@ skills:
       - name: Dancing
         description: ''
         percent: 80
-        icon: robbery
+        icon: people-robbery
+        icon_pack: fas
+      - name: Exploring
+        description: ''
+        percent: 80
+        icon: music
+        icon_pack: fas
+      - name: Cooking
+        description: ''
+        percent: 50
+        icon: bowl-food
         icon_pack: fas
       - name: Reading
         description: ''
         percent: 50
         icon: book
         icon_pack: fas
-      - name: Hiking
+      - name: Traveling
         description: ''
-        percent: 50
+        percent: 25
         icon: person-hiking
+        icon_pack: fas
+      - name: Skiing
+        description: ''
+        percent: 25
+        icon: person-skiing
         icon_pack: fas
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
