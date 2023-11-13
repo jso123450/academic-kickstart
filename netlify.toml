@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.97.3"
+  HUGO_VERSION = "0.119.0"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
@@ -20,8 +20,7 @@
   [plugins.inputs]
     debug = true
 
-
-[[headers]]
-  for = "/static/js/*.js"
-  [headers.values]
-    Content-Type = "text/javascript"
+# [[headers]]
+#   for = "/static/js/*.js"
+#   [headers.values]
+#     Content-Type = "text/javascript"
