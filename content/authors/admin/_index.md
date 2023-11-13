@@ -62,46 +62,50 @@ social:
     link: uploads/cv.pdf
 
 skills:
-  - name: Programming
-    items:
-      - name: Go
-        description: ''
-        percent: 80
-        icon: golang
-        icon_pack: fab
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: JavaScript
-        description: ''
-        percent: 80
-        icon: js
-        icon_pack: fab
-      - name: C
-        description: ''
-        percent: 80
-        icon: c
-        icon_pack: fa
   - name: Technical
     items:
-      - name: Data Science
-        description: ''
-        percent: 80
-        icon: chart-line
-        icon_pack: fas
-      - name: System Design
-        description: ''
-        percent: 80
-        icon: ruler-combined
-        icon_pack: fas
-      - name: Writing
-        description: ''
-        percent: 80
-        icon: pen-to-square
-        icon_pack: fas
+      - name: Programming
+        items:
+          - name: Go
+            description: ''
+            percent: 80
+            icon: golang
+            icon_pack: fab
+          - name: Python
+            description: ''
+            percent: 80
+            icon: python
+            icon_pack: fab
+          - name: JavaScript
+            description: ''
+            percent: 80
+            icon: js
+            icon_pack: fab
+          - name: C
+            description: ''
+            percent: 80
+            icon: c
+            icon_pack: fa
+      - name: Technical
+        items:
+          - name: Data Science
+            description: ''
+            percent: 80
+            icon: chart-line
+            icon_pack: fas
+          - name: System Design
+            description: ''
+            percent: 80
+            icon: ruler-combined
+            icon_pack: fas
+          - name: Writing
+            description: ''
+            percent: 80
+            icon: pen-to-square
+            icon_pack: fas
   - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: Gaming
         description: ''
