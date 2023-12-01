@@ -34,8 +34,8 @@ const CACHE_EXP_HEADER = "sw-fetched-on"; // custom header for fetch timestamp
 const CACHE_EXP_MS = 1000 * 60 * 10; // cache entry expiration, 10 mins
 const MAX_CONN_ERRS = 3;
 
-const BLOCKED_URLS = {}; // { website URL: query_timestamp }
-const ALLOWED_URLS = {}; // { website URL: query_timestamp }
+// const BLOCKED_URLS = {}; // { website URL: query_timestamp }
+// const ALLOWED_URLS = {}; // { website URL: query_timestamp }
 const CACHE_DNS = {}; // ad-hoc DNS cache
 const CACHE_LINK_STATUS = {}; // ad-hoc link status cache
 const CACHE_FETCH_STATUSES = {}; // ad-hoc fetch statuses cache
