@@ -2,7 +2,7 @@
 const API_ADDRESS = "https://130.245.32.39";
 const ENDPOINT_VAPIDPUBLICKEY = `${API_ADDRESS}/clients/vapidPublicKey`;
 const ENDPOINT_REGISTERPUSH = `${API_ADDRESS}/clients/register`;
-const SW_PATH = "/js/lms-worker.js";
+const SW_PATH = "/lms-worker.js";
 let ENDPOINT_USAGE = null;
 
 const MESSAGE_TYPE = {
