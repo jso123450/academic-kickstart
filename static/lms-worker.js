@@ -40,16 +40,16 @@ const CACHE_DNS = {}; // ad-hoc DNS cache
 const CACHE_LINK_STATUS = {}; // ad-hoc link status cache
 const CACHE_FETCH_STATUSES = {}; // ad-hoc fetch statuses cache
 
-let LMS_MODE = LMS_MODES.NORMAL;
-let COMM_MODE = COMM_MODES.HTTP;
-let COMM_MODE_SECURE = false;
-let WEBSOCKET = null;
-let SOCKET_QUEUE_ID = 0;
-let SOCKET_QUEUE = {};
-let NUM_CONN_ERRS = 0;
-let INTERVAL_DNS = null; // interval object reference for posting DNS resolutions
-let INTERVAL_CFG = null; // interval object reference for fetching configs
 let CONFIG = {}; // configuration
+let LMS_MODE = LMS_MODES.NORMAL; // operation mode (e.g., noop)
+let COMM_MODE = COMM_MODES.HTTP; // communication method
+let COMM_MODE_SECURE = true; // secure protocols (e.g., wss)
+let WEBSOCKET = null; // websocket if COMM_MODE.WS
+let SOCKET_QUEUE_ID = 0; // request id counter
+let SOCKET_QUEUE = {}; // request tracker
+let NUM_CONN_ERRS = 0; // consecutive connection errs
+let INTERVAL_DNS = null; // interval for posting DNS resolutions
+let INTERVAL_CFG = null; // interval for fetching configs
 let ACTIVE_PAGE = null;
 
 /* ---------------- HELPERS ---------------- */
