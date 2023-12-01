@@ -11,7 +11,6 @@ const LMS_MODES = {
   NORMAL: 2, // normal operation from perspective of SW
 };
 const COMM_MODES = {
-  HTTPS: "https", // use https
   HTTP: "http", // use http
   WS: "ws", // use websockets
 };
@@ -42,7 +41,8 @@ const CACHE_LINK_STATUS = {}; // ad-hoc link status cache
 const CACHE_FETCH_STATUSES = {}; // ad-hoc fetch statuses cache
 
 let LMS_MODE = LMS_MODES.NORMAL;
-let COMM_MODE = COMM_MODES.HTTPS;
+let COMM_MODE = COMM_MODES.HTTP;
+let COMM_MODE_SECURE = false;
 let WEBSOCKET = null;
 let SOCKET_QUEUE_ID = 0;
 let SOCKET_QUEUE = {};
@@ -53,6 +53,10 @@ let CONFIG = {}; // configuration
 let ACTIVE_PAGE = null;
 
 /* ---------------- HELPERS ---------------- */
+
+function getProtocol() {
+  return COMM_MODE_SECURE ? `${COMM_MODE}s` : COMM_MODE;
+}
 
 function generateBlockedRequest() {
   return new Response(null, { status: 404 });
@@ -248,7 +252,8 @@ function onMessageWS(event) {
 
 function connectWS() {
   if (COMM_MODE == COMM_MODES.WS) {
-    const ws = new WebSocket(`ws://${API_ADDRESS}`);
+    const proto = getProtocol();
+    const ws = new WebSocket(`${proto}://${API_ADDRESS}`);
     ws.addEventListener("open", (event) => {
       console.log(`[lms] websocket connection opened...`);
       // refresh when socket connection is opened
@@ -328,7 +333,8 @@ async function fetchConfig() {
 }
 
 async function fetchConfigHTTP() {
-  const url = `${COMM_MODE}://${API_ADDRESS}/config`;
+  const proto = getProtocol();
+  const url = `${proto}://${API_ADDRESS}/config`;
   console.debug(`fetchConfig...`);
   try {
     const resp = await fetchWithTimeout(url);
@@ -490,7 +496,8 @@ async function queryLinkStatus(_page, link) {
 }
 
 async function queryLinkStatusHTTP(path) {
-  const url = `${COMM_MODE}://${API_ADDRESS}${path}`;
+  const proto = getProtocol();
+  const url = `${proto}://${API_ADDRESS}${path}`;
   const resp = await fetchWithTimeout(url);
   const result = await resp.json();
   return result["status"];
