@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "NSA 11th Annual Best Scientific Cybersecurity Paper"
-  organization = " Uninvited Guests: Analyzing the Identity and Behavior of Certificate Transparency Bots"
+  title = "[NSA 11th Annual Best Scientific Cybersecurity Paper](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3676583/nsa-awards-authors-of-study-of-automated-attacks-on-new-webservers/)"
+  organization = "Uninvited Guests: Analyzing the Identity and Behavior of Certificate Transparency Bots"
   date_start = "2024-02-14"
   date_end = ""
 
