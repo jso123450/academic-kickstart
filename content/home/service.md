@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 active: true
-weight: 60
+weight: 50
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Service

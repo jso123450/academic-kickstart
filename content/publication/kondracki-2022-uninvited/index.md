@@ -31,11 +31,17 @@ file paths requested by each bot, and find 105 malicious campaigns
 targeting the domains we advertise. Our findings shed
 light onto the CT bot ecosystem, revealing that it is not only
 distinct to that of traditional IP-based bots, but is composed of
-numerous entities with varying targets and behaviors."
+numerous entities with varying targets and behaviors.
+\n\n
+Awards: \n
+- [NSA 11th Annual Best Scientific Cybersecurity Paper](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3676583/nsa-awards-authors-of-study-of-automated-attacks-on-new-webservers/)
+"
 featured: true
 publication: "In *Proceedings of the USENIX Security Symposium (USENIX Security), 2022*"
 url_pdf: "kondracki-2022-uninvited.pdf"
 links:
 - name: Talk
   url: https://www.youtube.com/watch?v=WqQsTEQa6fM&t=541s
+- name: NSA 11th Annual Best Scientific Cybersecurity Paper
+  url: https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3676583/nsa-awards-authors-of-study-of-automated-attacks-on-new-webservers/
 ---

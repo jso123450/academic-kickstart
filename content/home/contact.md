@@ -27,16 +27,16 @@ content:
   # Contact details (edit or remove options as required)
   email: josso [at] cs [dot] stonybrook [dot] edu
   # phone: 888 888 88 88
-  address:
-    street: Computer Science Building, Engineering Dr
-    city: Stony Brook
-    region: NY
-    postcode: '11794'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '40.91278486583526'
-    longitude: '-73.12365890154811'
+  # address:
+  #   street: Computer Science Building, Engineering Dr
+  #   city: Stony Brook
+  #   region: NY
+  #   postcode: '11794'
+  #   country: United States
+  #   country_code: US
+  # coordinates:
+  #   latitude: '40.91278486583526'
+  #   longitude: '-73.12365890154811'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
