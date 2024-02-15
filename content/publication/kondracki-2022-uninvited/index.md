@@ -38,4 +38,6 @@ url_pdf: "kondracki-2022-uninvited.pdf"
 links:
 - name: Talk
   url: https://www.youtube.com/watch?v=WqQsTEQa6fM&t=541s
+- name: NSA 11th Annual Best Scientific Cybersecurity Paper
+  url: https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3676583/nsa-awards-authors-of-study-of-automated-attacks-on-new-webservers/
 ---
