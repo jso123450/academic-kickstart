@@ -32,8 +32,8 @@ targeting the domains we advertise. Our findings shed
 light onto the CT bot ecosystem, revealing that it is not only
 distinct to that of traditional IP-based bots, but is composed of
 numerous entities with varying targets and behaviors.
-
-Awards:
+\n\n
+Awards: \n
 - [NSA 11th Annual Best Scientific Cybersecurity Paper](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3676583/nsa-awards-authors-of-study-of-automated-attacks-on-new-webservers/)
 "
 featured: true
