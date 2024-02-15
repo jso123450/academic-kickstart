@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 
 [[experience]]
+  title = "(Incoming) Software Engineer Intern"
+  company = "IAB / Browser Product Infrastructure @ Meta"
+  company_url = "https://about.meta.com/"
+  location = "Bellevue, WA"
+  date_start = "2024-05-01"
+  date_end = "2024-08-01"
+  description = """
+  Responsibilities TBD.
+  """
+
+[[experience]]
   title = "Research Assistant"
   company = "PragSec Lab @ Stony Brook University"
   company_url = "https://securitee.org"
