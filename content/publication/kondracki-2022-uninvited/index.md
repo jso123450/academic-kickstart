@@ -34,7 +34,7 @@ distinct to that of traditional IP-based bots, but is composed of
 numerous entities with varying targets and behaviors.
 \n\n
 Awards: \n
-- [NSA 11th Annual Best Scientific Cybersecurity Paper](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3676583/nsa-awards-authors-of-study-of-automated-attacks-on-new-webservers/)
+- NSA 11th Annual Best Scientific Cybersecurity Paper: [nsa.gov](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3676583/nsa-awards-authors-of-study-of-automated-attacks-on-new-webservers/), [cs.stonybrook.edu](https://www.cs.stonybrook.edu/about-us/News/national-security-agency-award)
 "
 featured: true
 publication: "In *Proceedings of the USENIX Security Symposium (USENIX Security), 2022*"
