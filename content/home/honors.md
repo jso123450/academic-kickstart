@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
 
 [[item]]
-  title = "[Stony Brook CS 2024 GRD Best Poster Award Runner-Up](https://news.stonybrook.edu/university/computer-science-grad-students-showcase-research)"
+  title = "[Graduate Research Day 2024 Best Poster Award Runner-Up](https://news.stonybrook.edu/university/computer-science-grad-students-showcase-research)"
   organization = "The More Things Change, the More They Stay the Same: Integrity of Modern JavaScript"
   date_start = "2024-03-29"
   date_end = ""
