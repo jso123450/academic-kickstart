@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Stony Brook University
-      year: 2020 - May 2025(?)
+      year: 2020 - May 2025
     - course: BSc in Computer Science
       institution: Stony Brook University
       year: 2016 - 2020
