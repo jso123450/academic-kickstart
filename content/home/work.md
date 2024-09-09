@@ -18,17 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 
 [[experience]]
-  title = "(Incoming) Software Engineer Intern"
-  company = "IAB / Browser Product Infrastructure @ Meta"
-  company_url = "https://about.meta.com/"
-  location = "Bellevue, WA"
-  date_start = "2024-05-01"
-  date_end = "2024-08-01"
-  description = """
-  Responsibilities TBD.
-  """
-
-[[experience]]
   title = "Research Assistant"
   company = "PragSec Lab @ Stony Brook University"
   company_url = "https://securitee.org"
@@ -42,6 +31,17 @@ date_format = "Jan 2006"
   * Profiled the behavior of bots that monitor Certificate Transparency logs, analyzing how bots of various intentions and origins react to new certificates within seconds [(Uninvited Guests)](publication/kondracki-2022-uninvited)
   * Illustrated the capability of adversaries to potentially affect millions of IP addresses in tens of thousands of autonomous systems by re-registering a few hundred domains [(Domains Change)](/publication/so-2022-domains/)
   * Proposed transparent web authentication mechanisms that leverage deception [(Click This, Not That)](/publication/barron-2021-click/)
+  """
+
+[[experience]]
+  title = "Software Engineer Intern"
+  company = "IAB / Browser Product Infrastructure @ Meta"
+  company_url = "https://about.meta.com/"
+  location = "Bellevue, Washington"
+  date_start = "2024-05-01"
+  date_end = "2024-08-01"
+  description = """
+  Prototyped new functionality for the Facebook iOS in-app browser.
   """
 
 [[experience]]

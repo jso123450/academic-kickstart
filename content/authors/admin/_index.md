@@ -18,7 +18,7 @@ organizations:
     url: "https://cs.stonybrook.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I am currently a fourth-year Ph.D. candidate advised by [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org) in Stony Brook University. I investigate (the lack of) web integrity in various contexts (e.g., domain names and JavaScript) through large-scale experiments, and subsequently design and evaluate defenses that improve the integrity of the web.
+bio:  I am currently a fifth-year Ph.D. candidate advised by [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org) in Stony Brook University. I investigate (the lack of) web integrity in various contexts (e.g., domain names and JavaScript) through large-scale experiments, and subsequently design and evaluate defenses that improve the integrity of the web.
 
 interests:
   - Web Security
@@ -30,7 +30,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Stony Brook University
-      year: 2020 - Dec 2024 (expected) 
+      year: 2020 - May 2025
     - course: BSc in Computer Science
       institution: Stony Brook University
       year: 2016 - 2020
@@ -68,4 +68,4 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a fourth-year Ph.D. candidate advised by [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org) in Stony Brook University. I investigate (the lack of) web integrity in various contexts (e.g., domain names and JavaScript) through large-scale experiments, and subsequently design and evaluate defenses that improve the integrity of the web.
+I am currently a fifth-year Ph.D. candidate advised by [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org) in Stony Brook University. I investigate (the lack of) web integrity in various contexts (e.g., domain names and JavaScript) through large-scale experiments, and subsequently design and evaluate defenses that improve the integrity of the web.
