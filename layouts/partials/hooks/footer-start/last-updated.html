@@ -1,0 +1,5 @@
+<footer>
+    {{ if .Site.Params.lastUpdated }}
+      <p>Last updated on: {{ .Site.LastChange.Format (default "January 2, 2006" .Site.Params.lastUpdatedFormat) }}</p>
+    {{ end }}
+  </footer>
