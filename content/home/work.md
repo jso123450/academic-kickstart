@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-08-01"
   date_end = ""
   description = """
-  Conducting web security research projects that result in [flagship security conference publications](/#publications). Current projects include:
+  Conducting research projects that result in [flagship security conference publications](/#publications). Current projects include:
   * Designing an application-agnostic link management system that prevents access to external dependencies of websites if such links violate integrity policies
   * Analyzing the security of web2 links in web3 contexts
   """
