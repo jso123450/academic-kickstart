@@ -1,7 +1,7 @@
 ---
 title: "Lost in the Mists of Time: Expirations in DNS Footprints of Mobile Apps"
-date: 2023-01-25
-publishDate: 2023-05-01
+date: 2025-01-23
+publishDate: 2025-08-13
 authors: ["admin", "Iskander Sanchez-Rola", "Nick Nikiforakis"]
 publication_types: ["1"]
 abstract: "Compared to the traditional desktop setting where web applications (apps) are live by nature, mobile apps are similar to binary programs that are installed on devices, in that they remain static until they are updated. However, they can also contain live, dynamic components if they interface with the web. This may lead to a confusing scenario, in which a mobile app itself has not been updated, but changes in dynamic components have caused changes in the overall app behavior.
@@ -11,11 +11,9 @@ In this work, we present the ﬁrst large-scale analysis of mobile app dependenc
 featured: true
 publication: "In *Proceedings of the 34th USENIX Security Symposium, 2025 (to appear)*"
 # url_pdf: ""
-# links:
-# - name: Teaser
-#   url: https://www.youtube.com/watch?v=eY335kFa8o4&list=PLSXA1jR2OSPCQAdwDqummDi9dNxiHJWLx&index=2
-# - name: Media Coverage
-#   url: /publication/so-2023-more/
+links:
+- name: Artifacts
+  url: https://doi.org/10.5281/zenodo.14737144
 # - name: Talk
-#   url: https://www.youtube.com/watch?v=8mgHW3CGsm8
+#   url: 
 ---
