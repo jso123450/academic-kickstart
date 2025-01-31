@@ -25,13 +25,9 @@ date_format = "Jan 2006"
   date_start = "2020-08-01"
   date_end = ""
   description = """
-  Conducting web security research projects that result in flagship conference publications:
+  Conducting web security research projects that result in [flagship security conference publications](/#publications). Current projects include:
   * Designing an application-agnostic link management system that prevents access to external dependencies of websites if such links violate integrity policies
-  * Highlighted the threat of expired domains in mobile apps, while accounting for time and version updates [(Lost in the Mists)](publication/so-2025-lost/)
-  * Demonstrated that strict integrity verification of scripts cannot protect the web and provided insight for future methods through a large-scale, data-driven analysis [(Things Change)](publication/so-2023-more/)
-  * Profiled the behavior of bots that monitor Certificate Transparency logs, analyzing how bots of various intentions and origins react to new certificates within seconds [(Uninvited Guests)](publication/kondracki-2022-uninvited)
-  * Illustrated the capability of adversaries to potentially affect millions of IP addresses in tens of thousands of autonomous systems by re-registering a few hundred domains [(Domains Change)](/publication/so-2022-domains/)
-  * Proposed transparent web authentication mechanisms that leverage deception [(Click This, Not That)](/publication/barron-2021-click/)
+  * Analyzing the security of web2 links in web3 contexts
   """
 
 [[experience]]
