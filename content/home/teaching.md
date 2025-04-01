@@ -21,6 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   title = "WSE 380 Rotation: Technical Foundations of a Startup"
   organization = "Instructor"
+  date_start = "2025-03-25"
+  date_end = "2025-04-17"
+
+[[item]]
+  title = "WSE 380 Rotation: Technical Foundations of a Startup"
+  organization = "Instructor"
   date_start = "2024-04-02"
   date_end = "2024-04-18"
 
