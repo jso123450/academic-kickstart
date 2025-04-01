@@ -31,10 +31,7 @@ education:
     - course: PhD in Computer Science
       institution: Stony Brook University
       year: 2020 - May 2025
-    - course: BSc in Computer Science
-      institution: Stony Brook University
-      year: 2016 - 2020
-    - course: BSc in Applied Math and Statistics
+    - course: BSc in Computer Science, and in Applied Math and Statistics
       institution: Stony Brook University
       year: 2016 - 2020
 
