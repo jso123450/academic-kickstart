@@ -10,7 +10,7 @@ In this work, we present the ﬁrst large-scale analysis of mobile app dependenc
 "
 featured: true
 publication: "In *Proceedings of the 34th USENIX Security Symposium, 2025 (to appear)*"
-# url_pdf: ""
+url_pdf: "so-2025-lost.pdf"
 links:
 - name: Artifacts
   url: https://doi.org/10.5281/zenodo.14737144
