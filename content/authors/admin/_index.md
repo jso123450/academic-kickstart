@@ -24,8 +24,8 @@ My research interests lie in the area of web security, particularly with respect
 If you are interested, you can check the [list of my publication here](/#publications).
 Although I have made the transition to industry, I hope to remain connected to the academic community.
 
-While completing my undergraduate studies and dissertation, I worked in various capacities over the years and built a suite of additional skills that have shaped the foundation of my work. 
-These include software engineering via internships at companies such as Meta, Cloudflare and Amazon, industry research through an internship at Gen Digital (then NortonLifeLock), teaching as an assistant instructor for web security and special topic mini-courses to expose undergraduate students to research, and small-scale server management for our lab.
+# While completing my undergraduate studies and dissertation, I worked in various capacities over the years and built a suite of additional skills that have shaped the foundation of my work. 
+# These include software engineering via internships at companies such as Meta, Cloudflare and Amazon, industry research through an internship at Gen Digital (then NortonLifeLock), teaching as an assistant instructor for web security and special topic mini-courses to expose undergraduate students to research, and small-scale server management for our lab.
 
 interests:
   - Web Security
@@ -71,3 +71,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Test
