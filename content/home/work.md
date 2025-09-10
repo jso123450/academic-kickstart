@@ -18,15 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 
 [[experience]]
+  title = "Research Scientist"
+  company = "Meta"
+  company_url = "https://www.meta.com/about"
+  location = "Seattle, WA"
+  date_start = "2025-09-01"
+  date_end = ""
+  description = """
+  TBD.
+  """
+
+[[experience]]
   title = "Research Assistant"
   company = "PragSec Lab @ Stony Brook University"
   company_url = "https://securitee.org"
   location = "Stony Brook, New York"
   date_start = "2020-08-01"
-  date_end = ""
+  date_end = "2025-05-21"
   description = """
-  Conducting research projects that result in [flagship security conference publications](/#publications). Current projects include:
-  * Designing an application-agnostic link management system that prevents access to external dependencies of websites if such links violate integrity policies
+  Conducted research projects that result in [flagship security conference publications](/#publications). Ongoing projects include:
   * Analyzing the security of web2 links in web3 contexts
   """
 
