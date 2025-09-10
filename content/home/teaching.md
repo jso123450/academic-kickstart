@@ -19,6 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "CSE 361: Web Security"
+  organization = "Teaching Assistant"
+  date_start = "2025-01-27"
+  date_end = "2025-05-21"
+
+
+[[item]]
   title = "WSE 380 Rotation: Technical Foundations of a Startup"
   organization = "Instructor"
   date_start = "2025-03-25"
