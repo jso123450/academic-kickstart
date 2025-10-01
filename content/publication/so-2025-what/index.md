@@ -10,7 +10,7 @@ In this paper, we present the design of LiMS, a transparent system to bootstrap 
 "
 featured: true
 publication: "In *Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security*"
-# url_pdf: "so-2025-what-extended.pdf"
+url_pdf: "so-2025-what.pdf"
 links:
 - name: PDF (extended)
   url: /publication/so-2025-what/so-2025-what-extended.pdf
