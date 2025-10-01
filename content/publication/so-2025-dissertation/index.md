@@ -38,7 +38,7 @@ Furthermore, from examining archived data for the sample sites, we find that sev
 featured: true
 # publication: "In *Proceedings of the 34th USENIX Security Symposium, 2025 (to appear)*"
 # url_pdf: "so-2025-dissertation.pdf"
-links:
+# links:
 # - name: Artifacts
 #   url: https://doi.org/10.5281/zenodo.14737144
 # - name: Talk
