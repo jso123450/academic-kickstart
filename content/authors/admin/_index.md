@@ -64,3 +64,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+I am currently a Research Scientist at Meta, after having completed my Ph.D. in Computer Science at Stony Brook University in 2025 under the guidance of [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org). I also obtained my Bachelor of Science degrees in Computer Science, and in Applied Mathematics and Statistics, at SBU in May 2020.
+
+My research interests lie in the area of web security, particularly with respect to (the lack of) integrity for web resources. 
+If you are interested, you can check the [list of my publication here](/#publications).
+Although I have made the transition to industry, I hope to remain connected to the academic community.
