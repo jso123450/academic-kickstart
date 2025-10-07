@@ -21,4 +21,4 @@ I contributed paper reviews for the following conferences and journals:
 
 # Artifact Evaluation Committee
 I served on the artifact evaluation committee for the following conferences:
-- USENIX Security Symposium: [2022](https://www.usenix.org/conference/usenixsecurity22/call-for-artifacts) [2023](https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts) [2024](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts) [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts)[noteworthy reviewer](https://secartifacts.github.io/usenixsec2025/awards#-noteworthy-reviewer-recognition)
+- USENIX Security Symposium: [2022](https://www.usenix.org/conference/usenixsecurity22/call-for-artifacts) [2023](https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts) [2024](https://www.usenix.org/conference/usenixsecurity24/call-for-artifacts) [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-artifacts)[\[noteworthy reviewer\]](https://secartifacts.github.io/usenixsec2025/awards#-noteworthy-reviewer-recognition)
