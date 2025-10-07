@@ -1,15 +1,16 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  mode: system
+  # theme_day: minimal
+  # theme_night: minimal
+  # font: minimal
+  # font_size: L
 
 # SEO
 
@@ -28,22 +29,21 @@ marketing:
     baidu: ""
 
 # Site header
-
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
+    block: 'navbar'
+    fixed_to_top: true
     show_search: true
-    highlight_active_link: true
+    show_theme_chooser: true
+    logo:
+      text: 'Johnny So'
 
 # Site footer
 
 footer:
   copyright:
-    notice: "© {year} Johnny So. This work is licensed under {license}"
+    notice: '© {year} Johnny So. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -51,11 +51,9 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
-  date_format: "Jan 2, 2006"
-  time_format: "3:04 PM"
-  address_format: en-us
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
 
 # Site features
 
