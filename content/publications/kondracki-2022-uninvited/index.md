@@ -3,7 +3,7 @@ title: "Uninvited Guests: Analyzing the Identity and Behavior of Certificate Tra
 date: 2022-08-10
 publishDate: 2022-08-10
 authors: ["Brian Kondracki", "admin", "Nick Nikiforakis"]
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 abstract: "Since its creation, Certificate Transparency (CT) has served
 as a vital component of the secure web. However, with the
 increase in TLS adoption, CT has essentially become a defacto

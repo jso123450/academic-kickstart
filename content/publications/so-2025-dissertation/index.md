@@ -3,7 +3,7 @@ title: "Protecting the Integrity of Modern Web Resources by Leveraging Patterns 
 date: 2025-05-22
 publishDate: 2025-05-21
 authors: ["admin"]
-publication_types: ["7"]
+publication_types: ["thesis"]
 abstract: "
 The modern web is a collection of remote resources that are identified by their location.
 These location-based addresses allow for mutations of the underlying content and provide powerful features that are invaluable to modern infrastructure and software deployment models.

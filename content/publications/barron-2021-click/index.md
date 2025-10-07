@@ -3,7 +3,7 @@ title: "Click This, Not That: Extending Web Authentication with Deception"
 date: 2021-06-01
 publishDate: 2021-06-01
 authors: ["Timothy Barron", "admin", "Nick Nikiforakis"]
-publication_types: ["1"]
+publication_types: ["paper-conference"]
 abstract: "With phishing attacks, password breaches, and brute-force login attacks presenting constant threats, it is clear that passwords alone are inadequate for protecting the web applications entrusted with our personal data. Instead, web applications should practice defense in depth and give users multiple ways to secure their accounts.
 \n\n
 In this paper we propose login rituals, which define actions that a user must take to authenticate, and web tripwires, which define actions that a user must not take to remain authenticated. These actions outline expected behavior of users familiar with their individual setups on applications they use often. We show how we can detect and prevent intrusions from web attackers lacking this familiarity with their victim’s behavior. We design a modular and application-agnostic system that incorporates these two mechanisms, allowing us to add an additional layer of deception-based security to existing web applications without modifying the applications themselves.
