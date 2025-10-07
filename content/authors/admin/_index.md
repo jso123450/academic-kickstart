@@ -10,7 +10,7 @@ last_name: So
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Research Scientist @ Meta
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: "https://cs.stonybrook.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I am currently a fifth-year Ph.D. candidate advised by [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org) in Stony Brook University. I investigate (the lack of) web integrity in various contexts (e.g., domain names and JavaScript) through large-scale experiments, and subsequently design and evaluate defenses that improve the integrity of the web.
+bio:  I am currently a Research Scientist at Meta, after having completed my Ph.D. in Computer Science at Stony Brook University in 2025 under the guidance of [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org). I also obtained my Bachelors of Science degrees in Computer Science, and in Applied Mathematics and Statistics, at SBU in May 2020.
 
 interests:
   - Web Security
@@ -30,10 +30,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: Stony Brook University
-      year: 2020 - May 2025
-    - course: BSc in Computer Science, and in Applied Math and Statistics
+      year: 2025
+    - course: BSc in Computer Science
       institution: Stony Brook University
-      year: 2016 - 2020
+      year: 2020
+    - course: BSc in Applied Math and Statistics
+      institution: Stony Brook University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,4 +68,8 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a fifth-year Ph.D. candidate advised by [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org) in Stony Brook University. I investigate (the lack of) web integrity in various contexts (e.g., domain names and JavaScript) through large-scale experiments, and subsequently design and evaluate defenses that improve the integrity of the web.
+I am currently a Research Scientist at Meta, after having completed my Ph.D. in Computer Science at Stony Brook University in 2025 under the guidance of [Professor Nick Nikiforakis at the PragSec Lab](https://securitee.org). I also obtained my Bachelor of Science degrees in Computer Science, and in Applied Mathematics and Statistics, at SBU in May 2020.
+
+My research interests lie in the area of web security, particularly with respect to (the lack of) integrity for web resources. 
+If you are interested, you can check the [list of my publications here](/#publications).
+Although I have made the transition to industry, I hope to remain connected to the academic community.
